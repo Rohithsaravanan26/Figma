@@ -718,6 +718,7 @@ thank you:
 ```
 
 ## OUTPUT:
+<img width="1105" height="529" alt="image" src="https://github.com/user-attachments/assets/174ed7bc-cb04-4f8b-9a5e-2e9462f989d2" />
 
 
 ## RESULT:
